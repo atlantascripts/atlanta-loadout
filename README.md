@@ -1,3 +1,4 @@
 - Made by Atlanta Scripts - chriis
+- Discord Server: https://discord.gg/sCMKeZHxS5
 - cfx.re forum link: https://forum.cfx.re/t/fivem-loadout-menu/5247696
-- tebex link: https://atlanta-scripts.tebex.io/package/6348251
+- Tebex link: https://atlanta-scripts.tebex.io/package/6348251
