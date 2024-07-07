@@ -1,0 +1,3 @@
+- Made by Atlanta Scripts - chriis
+- cfx.re forum link: https://forum.cfx.re/t/fivem-loadout-menu/5247696
+- tebex link: https://atlanta-scripts.tebex.io/package/6348251
